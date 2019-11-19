@@ -1,0 +1,341 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(date 1574126666572)
++++ .idea/misc.xml	(date 1574126666572)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(date 1574126666581)
++++ .idea/modules.xml	(date 1574126666581)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/JDBCDemo.iml" filepath="$PROJECT_DIR$/JDBCDemo.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/uiDesigner.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/uiDesigner.xml	(date 1574126960507)
++++ .idea/uiDesigner.xml	(date 1574126960507)
+@@ -0,0 +1,124 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Palette2">
++    <group name="Swing">
++      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.png" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.png" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
++      </item>
++      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.png" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.png" removable="false" auto-create-binding="false" can-attach-label="true">
++        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.png" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
++        <initial-values>
++          <property name="text" value="Button" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.png" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="RadioButton" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.png" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="CheckBox" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.png" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
++        <initial-values>
++          <property name="text" value="Label" />
++        </initial-values>
++      </item>
++      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.png" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.png" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.png" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
++          <preferred-size width="150" height="-1" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.png" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.png" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.png" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.png" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.png" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.png" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.png" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
++          <preferred-size width="150" height="50" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.png" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.png" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
++          <preferred-size width="200" height="200" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.png" removable="false" auto-create-binding="true" can-attach-label="true">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.png" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
++      </item>
++      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.png" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
++      </item>
++      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.png" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.png" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
++          <preferred-size width="-1" height="20" />
++        </default-constraints>
++      </item>
++      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.png" removable="false" auto-create-binding="false" can-attach-label="false">
++        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
++      </item>
++      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.png" removable="false" auto-create-binding="true" can-attach-label="false">
++        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
++      </item>
++    </group>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1574129593869)
++++ .idea/vcs.xml	(date 1574129593869)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: src/com/sample/jdbcdemo/JDBCDemoByUtils.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/com/sample/jdbcdemo/JDBCDemoByUtils.java	(date 1574129023045)
++++ src/com/sample/jdbcdemo/JDBCDemoByUtils.java	(date 1574129023045)
+@@ -0,0 +1,81 @@
++package com.sample.jdbcdemo;
++
++/**
++ * @Auther:Yue
++ * @Date:2019/11/19
++ * @Description:com.sample.jdbcdemo
++ * @version:1.0
++ */
++
++import com.sun.org.apache.xpath.internal.SourceTree;
++
++import java.sql.Connection;
++import java.sql.ResultSet;
++import java.sql.SQLException;
++import java.sql.Statement;
++
++/**
++ * 通过JDBC工具类进行增删改查操作
++ * @author Limeng
++ *
++ */
++public class JDBCDemoByUtils {
++
++    private static String sqlStatement;
++
++    public static void main(String[] args) throws Exception {
++        //通过工具类获取数据库连接对象
++        Connection con = JDBCUtils.getConnection();
++        //通过连接创建数据库执行对象
++        Statement sta = con.createStatement();
++        //为查询的结果集准备接收对象
++        ResultSet rs = null;
++        //查询
++        sqlStatement = "SELECT * FROM sample_user_user";
++        qry(sta, sqlStatement, rs);
++        //增加
++        sqlStatement = "INSERT INTO sample_user_user(user_name,user_password,user_email) VALUES('小三','123','865082441@qq.com')";
++        System.out.println("新增执行结果:"+update(sta,sqlStatement)+" 新增成功");
++        //修改
++        sqlStatement="UPDATE sample_user_user SET user_name='修改后danclan' WHERE id = '1'";
++        System.out.println("修改执行结果:"+update(sta,sqlStatement)+" 修改成功");
++        //删除
++        sqlStatement = "DELETE FROM sample_user_user WHERE id = '6'";
++        System.out.println("删除执行结果:"+update(sta,sqlStatement)+" 删除成功");
++
++        JDBCUtils.closeResource(rs, sta, con);
++    }
++
++    /**
++     * 查询
++     * @param sta
++     * @param sql
++     * @param rs
++     * @throws SQLException
++     */
++    private static void qry(Statement sta, String sql, ResultSet rs) throws SQLException {
++        rs = sta.executeQuery(sql);
++        System.out.println("数据库查询功能:");
++        while (rs.next()) {
++            System.out.print("用户id:"+rs.getObject("id")+" ");
++            System.out.print("用户名："+rs.getObject("user_name")+" ");
++            System.out.print("密码:"+rs.getObject("user_password")+" ");
++            System.out.println("邮箱:"+rs.getObject("user_email")+" ");
++
++        }
++    }
++
++    /**
++     * 增加
++     * 删除
++     * 修改
++     *
++     * @param sta
++     * @param sql
++     * @return
++     * @throws SQLException
++     */
++    private static int update(Statement sta, String sql) throws SQLException {
++        return sta.executeUpdate(sql);
++    }
++}
+Index: src/com/sample/jdbcdemo/JDBCUtils.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/com/sample/jdbcdemo/JDBCUtils.java	(date 1574127454346)
++++ src/com/sample/jdbcdemo/JDBCUtils.java	(date 1574127454346)
+@@ -0,0 +1,64 @@
++package com.sample.jdbcdemo;
++
++/**
++ * @Auther:Yue
++ * @Date:2019/11/19
++ * @Description:PACKAGE_NAME
++ * @version:1.0
++ */
++
++import java.io.File;
++import java.io.FileInputStream;
++import java.io.IOException;
++import java.sql.*;
++import java.util.Properties;
++/**
++ * JDBC连接数据库和关闭资源工具类
++ * @author limeng
++ *
++ */
++public class JDBCUtils {
++    private static String driver = "com.mysql.cj.jdbc.Driver";
++    private static String url = "jdbc:mysql://localhost:3306/sample_library?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone = GMT";
++    private static String user = "root";
++    private static String password = "123456";
++
++    // 1. 获取驱动
++    static {
++        try {
++            Class.forName(driver);
++        } catch (Exception e) {
++            e.printStackTrace();
++        }
++    }
++
++    // 2. 创建连接
++    public static Connection getConnection() throws SQLException {
++        Connection conn = DriverManager.getConnection(url, user, password);
++        System.out.println("数据库连接成功" + conn);
++        return conn;
++    }
++
++    // 3. 关闭连接
++    public static void closeResource(ResultSet rs, Statement sta, Connection con) throws SQLException {
++        if (rs != null) {
++            rs.close();
++        }
++
++        if (sta != null) {
++            sta.close();
++        }
++
++        if (con != null) {
++            con.close();
++        }
++    }
++
++    public static void main(String[] args) {
++        try {
++            getConnection();
++        } catch (SQLException e) {
++            e.printStackTrace();
++        }
++    }
++}
