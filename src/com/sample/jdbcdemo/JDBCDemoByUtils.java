@@ -1,7 +1,7 @@
 package com.sample.jdbcdemo;
 
 /**
- * @Auther:Yue
+ * @Author:ShiXiaoyu
  * @Date:2019/11/19
  * @Description:com.sample.jdbcdemo
  * @version:1.0
@@ -14,10 +14,8 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-/**
+/*
  * 通过JDBC工具类进行增删改查操作
- * @author ShiXiaoyu
- *
  */
 public class JDBCDemoByUtils {
 

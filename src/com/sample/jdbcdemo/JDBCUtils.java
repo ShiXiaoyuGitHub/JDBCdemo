@@ -1,20 +1,18 @@
 package com.sample.jdbcdemo;
 
 /**
- * @Auther:Yue
+ * @Author:ShiXiaoyu
  * @Date:2019/11/19
- * @Description:PACKAGE_NAME
+ * @Description:com.sample.jdbcdemo
  * @version:1.0
  */
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.sql.*;
 import java.util.Properties;
-/**
+/*
  * JDBC连接数据库和关闭资源工具类
- * @author ShiXiaoyu
  *
  *
  */
