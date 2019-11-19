@@ -16,6 +16,7 @@ import java.util.Properties;
  * JDBC连接数据库和关闭资源工具类
  * @author ShiXiaoyu
  *
+ *
  */
 public class JDBCUtils {
     private static String driver = "com.mysql.cj.jdbc.Driver";
