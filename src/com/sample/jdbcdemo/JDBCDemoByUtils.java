@@ -32,6 +32,8 @@ public class JDBCDemoByUtils {
         ResultSet rs = null;
         //查询
         sqlStatement = "SELECT * FROM sample_user_user";
+
+
         qry(sta, sqlStatement, rs);
         //增加
         sqlStatement = "INSERT INTO sample_user_user(user_name,user_password,user_email) VALUES('小三','123','865082441@qq.com')";
