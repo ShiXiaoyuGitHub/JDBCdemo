@@ -16,7 +16,7 @@ import java.sql.Statement;
 
 /**
  * 通过JDBC工具类进行增删改查操作
- * @author Limeng
+ * @author ShiXiaoyu
  *
  */
 public class JDBCDemoByUtils {
